@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo 'Codice di prova';
+        echo 'Bye';
         ?>
     </body>
 </html>
